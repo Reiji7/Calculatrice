@@ -53,10 +53,11 @@ public class MathsTest2 {
         Assert.assertEquals(0, this.maths.multiplicationParAddition(-4, -0), 0);
     }
 
+    /**
     @Test
     public void testFailCheck() throws Exception {
         Assert.assertEquals(6, this.maths.multiplicationParAddition(-4, -0), 0);
     }
-
+    */
 
 }
